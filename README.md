@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/shivani-520">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=900&color=FAE653&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Hello%2C+I'm+Shivani+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Software+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Machine+Learning+%F0%9F%A7%A0"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=900&color=FAE653&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Hello%2C+I'm+Shivani+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;3D+Web+Developer+%F0%9F%8C%90;Machine+Learning+%F0%9F%A7%A0"
       alt="Typing animation introducing Shivani"
     />
   </a>
@@ -15,7 +15,7 @@
 
 <p>
   I'm Shivani Sharma, a developer working across
-  <strong>software, web, games and AI</strong>.
+  <strong>web, games and AI</strong>.
   I build responsive websites, interactive 3D experiences and Unity games,
   and use reinforcement learning to explore how autonomous agents learn
   and work together.
@@ -23,7 +23,7 @@
 
 <ul>
   <li>
-    💻 <strong>Software &amp; web:</strong>
+    💻 <strong>Web:</strong>
     React applications, real-time 3D environments and interactive tools
     with Three.js and React Three Fiber.
   </li>
