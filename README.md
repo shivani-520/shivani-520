@@ -1,17 +1,14 @@
 <p align="center">
   <a href="https://github.com/shivani-520">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FAE653&fontSize=54&height=90&width=634&text=Hello%20I'm%20Shivani" alt="Hello I&#39;m Shivani" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=2500&pause=900&color=FAE653&center=true&vCenter=true&repeat=true&width=800&height=80&lines=Hello%2C+I'm+Shivani+%F0%9F%91%8B;Game+Developer+%F0%9F%8E%AE;Software+Developer+%F0%9F%92%BB;Web+Developer+%F0%9F%8C%90;Machine+Learning+%F0%9F%A7%A0"
+      alt="Typing animation introducing Shivani"
+    />
   </a>
 </p>
 
 <p align="center">
-  <strong>
-    Software &amp; Web Developer · Game Developer · Reinforcement Learning
-  </strong>
-</p>
-
-<p align="center">
-  Building interactive experiences for the websites, games and intelligent systems.
+  Building interactive experiences for websites, games and intelligent systems.
 </p>
 
 <h2>🚀 About Me</h2>
