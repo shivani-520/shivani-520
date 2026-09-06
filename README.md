@@ -215,4 +215,4 @@
 
 <hr />
 
-<p align="center"><i>⭐️ From <a href="https://github.com/shivani-520">shivani-520</a></i></p>
+<p align="center"><i><a href="https://github.com/shivani-520">shivani-520</a></i></p>
