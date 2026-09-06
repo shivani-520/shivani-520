@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I'm Shivani 👋</h1>
+<p align="center">
+  <a href="https://github.com/shivani-520">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0891b2&fontSize=54&height=90&width=634&text=Hello%20I'm%20Shivani" alt="Hello I&#39;m Shivani" />
+  </a>
+</p>
 
 <p align="center">
   <strong>
