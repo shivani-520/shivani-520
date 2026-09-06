@@ -106,6 +106,10 @@
     src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&amp;logo=webpack&amp;logoColor=black"
     alt="Webpack"
   />
+  <img
+    src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"
+    alt="Vercel"
+  />
 </p>
 
 <h3>Games &amp; AI</h3>
