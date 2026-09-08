@@ -152,6 +152,10 @@
     src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white"
     alt="Jira"
   />
+  <img
+    src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white"
+    alt="Trello"
+  />
 </p>
 
 <h2>✨ Selected Projects</h2>
